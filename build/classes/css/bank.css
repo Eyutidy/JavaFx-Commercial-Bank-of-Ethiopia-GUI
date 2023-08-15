@@ -1,0 +1,23 @@
+
+.root{
+    -fx-background-color : purple;
+}
+.label{
+   -fx-font : normal bold 15px 'normal';
+}
+#checkbox{
+    -fx-font:normal bold 15px 'normal';
+}
+.button:hover{
+    -fx-background-color: blueviolet;
+    -fx-text-fill:aquamarine;
+}
+.hyperlink:hover{
+    -fx-text-fill:aquamarine;
+}
+#tx{
+  -fx-font:normal bold 25px 'normal';
+}
+#voucher{
+  -fx-font:normal bold 25px 'normal';
+}
